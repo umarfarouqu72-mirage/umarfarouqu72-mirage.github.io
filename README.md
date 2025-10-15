@@ -1,13 +1,22 @@
-# umarfarouqu72-mirage.github.io
-<!DOCTYPE html>
 <html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Page Title</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Design Example</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+  <header>
+    <h1>Responsive Design Example</h1>
+  </header>
+  <main>
+    <div class="column">Column 1</div>
+    <div class="column">Column 2</div>
+  </main>
+  <footer>
+    <p>&copy; 2024 Responsive Design Example</p>
+  </footer>
 </body>
 </html>
